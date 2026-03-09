@@ -8,8 +8,17 @@ UserSettings/
 
 MemoryCaptures/
 
-# Visual Studio
+# Built game executables - users should build from source
+Game/
+bin/
+
+# IDE folders
 .vs/
+.vscode/
+.idea/
+.plastic/
+
+# Visual Studio
 *.csproj
 *.unityproj
 *.sln
@@ -24,3 +33,12 @@ MemoryCaptures/
 *.mdb
 *.opendb
 *.VC.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
