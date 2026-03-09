@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3f379ef82150e4b28916da90aeefb33d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gridArea: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - soundEffects: {instanceID: 0}
+  - eating: {instanceID: 0}
+  - gameOverSound: {instanceID: 0}
+  - itemPrefab: {fileID: 1143656904056909088, guid: d98bfdc710cf05341af55f08a301d492, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

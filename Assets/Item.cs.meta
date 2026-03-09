@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c15dd01fef51ab04197b6911bccb8e43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gridArea: {fileID: 3296316478253143430, guid: bfbe329cc8610b94f9eef4d43f78de12, type: 3}
+  - spriteRenderer: {fileID: 5779754024351219106, guid: d98bfdc710cf05341af55f08a301d492, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
